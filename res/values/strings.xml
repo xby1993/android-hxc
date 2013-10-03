@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="str">含羞草</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str0">含羞草大人8条军规</string>
+    <string name="str1">1.草永远是对的</string>
+    <string name="str2">2.如果不清楚，请看第一条</string>
+    <string name="str3">3.草伤心时第一时间赶到</string>
+    <string name="str4">4.一个人生气时，另外一个人不准生气</string>
+    <string name="str5">5.说话声音不能超过60分贝</string>
+    <string name="str6">6.不准抽烟</string>
+    <string name="str7">7.不准喝酒打牌</string>
+    <string name="str8">8.不准捏花惹草</string>
+    <string name="click1">大人，满意否？满意请点击我</string>
+    <string name="click2">退出</string>
+    <string name="see">没天理了，我答对了竟然还打我屁股，快把脸凑过来</string>
+    <string name="hint">我懂的</string>
+    <string name="change">切换画面至照镜子</string>
+    <string name="message">查看富文本消息</string>
+    <string name="login">登陆</string>
+    <string name="title_activity_pai">PaiActivity</string>
+    <string name="title_activity_ad_y">AdYActivity</string>
+    <string name="text_btn_setTags">设置标签</string>
+    <string name="text_btn_delTags">删除标签</string>
+
+</resources>
